@@ -1,6 +1,6 @@
 # Problem 2: Face Blur on Video - Detect Technologies
 
-**Name**: Ravishankar Mahto  
+**Name**: Ravishankar Kumar  
 **Submitted for**: Backend Engineer Position
 
 ## Approach Used
